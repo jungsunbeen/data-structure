@@ -1,0 +1,3 @@
+/Users/sunbeenmac/CLionProjects/data_structur_ass1/cmake-build-debug/CMakeFiles/data_structur_ass1.dir
+/Users/sunbeenmac/CLionProjects/data_structur_ass1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sunbeenmac/CLionProjects/data_structur_ass1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
